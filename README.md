@@ -1,0 +1,4 @@
+comicalPKGBUILD
+===============
+
+comical arch PKGBUILD
