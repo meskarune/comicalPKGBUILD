@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Comical
+Comment=View Comic Book archives
+TryExec=comical
+Exec=comical %U
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=comical
+NoDisplay=false
+Categories=GNOME;GTK;Viewer;Graphics;VectorGraphics;
+MimeType=application/x-cbr;application/x-cbz;
+GenericName=Comic Book Reader
